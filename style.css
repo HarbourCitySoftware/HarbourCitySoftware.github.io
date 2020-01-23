@@ -1,0 +1,26 @@
+body {
+    background: url("bridge_background.jpeg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+h1 { 
+    color: snow;
+    text-align: center;
+    font-family: monospace;
+    font-size: 44px;
+}
+
+h3, p { 
+    color: snow;
+    text-align: center;
+    font-family: monospace;
+}
+footer { 
+    position: fixed;     
+    text-align: center;    
+    bottom: 0px; 
+    width: 100%;
+}
